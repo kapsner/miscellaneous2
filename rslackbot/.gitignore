@@ -2,9 +2,5 @@
 /*/*
 
 !.gitignore
-
-!*.R
+!slackr.conf
 !README.md
-
-!/r2source
-!/rslackbot
