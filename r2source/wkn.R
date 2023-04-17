@@ -4,6 +4,7 @@ list1 <- list(
   , "MBG.DE" = "Mercedes-Benz Group AG"
   , "ELG.MU" = "Elmos Semiconductor SE"
   , "HEI.MU" = "HeidelbergCement AG"
+  , "DX2J.SG" = "Xtrackers MSCI Europe Small Cap UCITS ETF"
 )
 
 list2 <- list(
