@@ -1,6 +1,5 @@
 list1 <- list(
-  "VOW3.DE" = "Volkswagen Vz"
-  , "S9I.DE" = "Stemmer Imaging AG"
+  "S9I.DE" = "Stemmer Imaging AG"
   , "8TRA.DE" = "Traton SE"
   , "MBG.DE" = "Mercedes-Benz Group AG"
 )
@@ -17,4 +16,5 @@ list2 <- list(
   , "ESIH.DE" = "iShares MSCI Europe Health Care Sector UCITS ETF"
   , "XZEU.DE" = "Xtrackers MSCI Europe ESG UCITS ETF"
   , "ADA-EUR" = "Cardano EUR"
+  , "VOW3.DE" = "Volkswagen Vz"
 )
