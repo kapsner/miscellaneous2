@@ -2,6 +2,8 @@ list1 <- list(
   "S9I.DE" = "Stemmer Imaging AG"
   , "8TRA.DE" = "Traton SE"
   , "MBG.DE" = "Mercedes-Benz Group AG"
+  , "ELG.MU" = "Elmos Semiconductor SE"
+  , "HEI.MU" = "HeidelbergCement AG"
 )
 
 list2 <- list(
