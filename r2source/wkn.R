@@ -8,7 +8,7 @@ list1 <- list(
 )
 
 list2 <- list(
-  "IMR.MU" = "AC Immune"
+  "IMR.F" = "AC Immune"
   , "PAH3.DE" = "Porsche Automobil Holding SE"
   , "DBXJ.DE" = "Xtrackers MSCI Japan UCITS ETF"
   , "XDWD.DE" = "Xtrackers MSCI World UCITS ETF"
