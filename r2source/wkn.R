@@ -1,10 +1,12 @@
 list1 <- list(
-  , "MBG.DE" = "Mercedes-Benz Group AG"
+  "MBG.DE" = "Mercedes-Benz Group AG"
   , "ELG.MU" = "Elmos Semiconductor SE"
   , "HEI.MU" = "HeidelbergCement AG"
   , "DX2J.SG" = "Xtrackers MSCI Europe Small Cap UCITS ETF"
   , "VOL4.F" = "AB Volvo (publ)"
   , "8TI.DE" = "Stellantis NV"
+  , "7HP.DE" = "HP Inc"
+  , "IFX.F" = "Infineon Technologies AG"
 )
 
 list2 <- list(
