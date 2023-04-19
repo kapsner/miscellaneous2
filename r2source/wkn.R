@@ -1,10 +1,10 @@
 list1 <- list(
-  "S9I.DE" = "Stemmer Imaging AG"
-  , "8TRA.DE" = "Traton SE"
   , "MBG.DE" = "Mercedes-Benz Group AG"
   , "ELG.MU" = "Elmos Semiconductor SE"
   , "HEI.MU" = "HeidelbergCement AG"
   , "DX2J.SG" = "Xtrackers MSCI Europe Small Cap UCITS ETF"
+  , "VOL4.F" = "AB Volvo (publ)"
+  , "8TI.DE" = "Stellantis NV"
 )
 
 list2 <- list(
@@ -20,4 +20,5 @@ list2 <- list(
   , "XZEU.DE" = "Xtrackers MSCI Europe ESG UCITS ETF"
   , "ADA-EUR" = "Cardano EUR"
   , "VOW3.DE" = "Volkswagen Vz"
+  , "8TRA.DE" = "Traton SE"
 )
