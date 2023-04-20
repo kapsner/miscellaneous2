@@ -8,6 +8,8 @@ list1 <- list(
   , "7HP.DE" = "HP Inc"
   , "IFX.F" = "Infineon Technologies AG"
   , "NJB.F" = "NIBE Industrier AB (publ)"
+  , "CON.DE" = "Continental Aktiengesellschaft"
+  , "MAT1.MU" = "Panasonic Holdings Corp"
 )
 
 list2 <- list(
