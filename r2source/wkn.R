@@ -9,11 +9,11 @@ list1 <- list(
   , "IFX.DE" = "Infineon Technologies AG"
   , "NJB.DE" = "NIBE Industrier AB (publ)"
   , "CON.DE" = "Continental Aktiengesellschaft"
-  , "MAT1.DE" = "Panasonic Holdings Corp"
+  , "MAT1.F" = "Panasonic Holdings Corp"
 )
 
 list2 <- list(
-  "IMR.DE" = "AC Immune"
+  "IMR.F" = "AC Immune"
   , "PAH3.DE" = "Porsche Automobil Holding SE"
   , "DBXJ.DE" = "Xtrackers MSCI Japan UCITS ETF"
   , "XDWD.DE" = "Xtrackers MSCI World UCITS ETF"
