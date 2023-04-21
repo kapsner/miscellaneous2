@@ -1,19 +1,19 @@
 list1 <- list(
   "MBG.DE" = "Mercedes-Benz Group AG"
-  , "ELG.MU" = "Elmos Semiconductor SE"
-  , "HEI.MU" = "HeidelbergCement AG"
+  , "ELG.DE" = "Elmos Semiconductor SE"
+  , "HEI.DE" = "HeidelbergCement AG"
   , "DX2J.SG" = "Xtrackers MSCI Europe Small Cap UCITS ETF"
-  , "VOL4.F" = "AB Volvo (publ)"
+  , "VOL4.DE" = "AB Volvo (publ)"
   , "8TI.DE" = "Stellantis NV"
   , "7HP.DE" = "HP Inc"
-  , "IFX.F" = "Infineon Technologies AG"
-  , "NJB.F" = "NIBE Industrier AB (publ)"
+  , "IFX.DE" = "Infineon Technologies AG"
+  , "NJB.DE" = "NIBE Industrier AB (publ)"
   , "CON.DE" = "Continental Aktiengesellschaft"
-  , "MAT1.MU" = "Panasonic Holdings Corp"
+  , "MAT1.DE" = "Panasonic Holdings Corp"
 )
 
 list2 <- list(
-  "IMR.F" = "AC Immune"
+  "IMR.DE" = "AC Immune"
   , "PAH3.DE" = "Porsche Automobil Holding SE"
   , "DBXJ.DE" = "Xtrackers MSCI Japan UCITS ETF"
   , "XDWD.DE" = "Xtrackers MSCI World UCITS ETF"
