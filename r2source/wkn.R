@@ -3,7 +3,7 @@ list1 <- list(
   , "ELG.DE" = "Elmos Semiconductor SE"
   , "HEI.DE" = "HeidelbergCement AG"
   , "DX2J.SG" = "Xtrackers MSCI Europe Small Cap UCITS ETF"
-  , "VOL4.DE" = "AB Volvo (publ)"
+  , "VOL4.F" = "AB Volvo (publ)"
   , "8TI.DE" = "Stellantis NV"
   , "7HP.DE" = "HP Inc"
   , "IFX.DE" = "Infineon Technologies AG"
