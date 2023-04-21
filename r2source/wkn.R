@@ -7,7 +7,7 @@ list1 <- list(
   , "8TI.DE" = "Stellantis NV"
   , "7HP.DE" = "HP Inc"
   , "IFX.DE" = "Infineon Technologies AG"
-  , "NJB.DE" = "NIBE Industrier AB (publ)"
+  , "NJB.F" = "NIBE Industrier AB (publ)"
   , "CON.DE" = "Continental Aktiengesellschaft"
   , "MAT1.F" = "Panasonic Holdings Corp"
 )
