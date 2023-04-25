@@ -2,13 +2,11 @@ list1 <- list(
   "MBG.DE" = "Mercedes-Benz Group AG"
   , "ELG.DE" = "Elmos Semiconductor SE"
   , "HEI.DE" = "HeidelbergCement AG"
-  , "DX2J.SG" = "Xtrackers MSCI Europe Small Cap UCITS ETF"
   , "VOL4.F" = "AB Volvo (publ)"
   , "8TI.DE" = "Stellantis NV"
   , "7HP.DE" = "HP Inc"
   , "IFX.DE" = "Infineon Technologies AG"
   , "NJB.F" = "NIBE Industrier AB (publ)"
-  , "CON.DE" = "Continental Aktiengesellschaft"
   , "MAT1.F" = "Panasonic Holdings Corp"
 )
 
@@ -26,4 +24,7 @@ list2 <- list(
   , "ADA-EUR" = "Cardano EUR"
   , "VOW3.DE" = "Volkswagen Vz"
   , "8TRA.DE" = "Traton SE"
+  , "INRG.MI" = "iShares Global Clean Energy UCITS ETF USD (Dist)"
+  , "DX2J.SG" = "Xtrackers MSCI Europe Small Cap UCITS ETF"
+  , "EXS2.DE" = "iShares TecDAX UCITS ETF (DE)"
 )
