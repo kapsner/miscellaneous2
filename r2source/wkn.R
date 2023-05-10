@@ -1,6 +1,5 @@
 list1 <- list(
-  "MBG.DE" = "Mercedes-Benz Group AG"
-  , "ELG.DE" = "Elmos Semiconductor SE"
+  "ELG.DE" = "Elmos Semiconductor SE"
   , "HEI.DE" = "HeidelbergCement AG"
   , "VOL4.F" = "AB Volvo (publ)"
   , "NJB.F" = "NIBE Industrier AB (publ)"
@@ -21,6 +20,7 @@ list2 <- list(
   , "ADA-EUR" = "Cardano EUR"
   , "VOW3.DE" = "Volkswagen Vz"
   , "8TRA.DE" = "Traton SE"
+  , "MBG.DE" = "Mercedes-Benz Group AG"
   , "INRG.MI" = "iShares Global Clean Energy UCITS ETF USD (Dist)"
   , "DX2J.SG" = "Xtrackers MSCI Europe Small Cap UCITS ETF"
   , "EXS2.DE" = "iShares TecDAX UCITS ETF (DE)"
