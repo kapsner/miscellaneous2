@@ -5,7 +5,7 @@ list1 <- list(
   , "NJB.F" = "NIBE Industrier AB (publ)"
   , "MAT1.F" = "Panasonic Holdings Corp"
   , "CNTG" = "Centogene N.V."
-  , "HVJD.F" = "ARERO-DER WELTFONDS INH."
+  , "HVJD.SG" = "ARERO-DER WELTFONDS INH."
   , "IFX.DE" = "Infineon Technologies AG"
 )
 
