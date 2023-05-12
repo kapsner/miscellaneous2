@@ -4,8 +4,8 @@ list1 <- list(
   , "VOL4.F" = "AB Volvo (publ)"
   , "NJB.F" = "NIBE Industrier AB (publ)"
   , "MAT1.F" = "Panasonic Holdings Corp"
-  , "39K.MU" = "Centogene N.V."
-  , "HVJD.MU" = "ARERO-DER WELTFONDS INH."
+  , "CNTG" = "Centogene N.V."
+  , "HVJD.F" = "ARERO-DER WELTFONDS INH."
   , "IFX.DE" = "Infineon Technologies AG"
 )
 
