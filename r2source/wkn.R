@@ -1,13 +1,13 @@
 list1 <- list(
-  "ELG.DE" = "Elmos Semiconductor SE"
+  "CNTG" = "Centogene N.V."
+  # , "HVJD.SG" = "ARERO-DER WELTFONDS INH."
+  , "IFX.DE" = "Infineon Technologies AG"
+  , "ELG.DE" = "Elmos Semiconductor SE"
   , "HEI.DE" = "HeidelbergCement AG"
   , "VOL4.F" = "AB Volvo (publ)"
   , "NJB.F" = "NIBE Industrier AB (publ)"
   , "MAT1.F" = "Panasonic Holdings Corp"
-  , "CNTG" = "Centogene N.V."
-  , "HVJD.SG" = "ARERO-DER WELTFONDS INH."
-  , "IFX.DE" = "Infineon Technologies AG"
-)
+  )
 
 list2 <- list(
   "IMR.F" = "AC Immune"
