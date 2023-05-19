@@ -22,7 +22,7 @@ list2 <- list(
   , "XZEU.DE" = "Xtrackers MSCI Europe ESG UCITS ETF"
   , "ADA-EUR" = "Cardano EUR"
   , "VOW3.DE" = "Volkswagen Vz"
-  , "8TRA.DE" = "Traton SE"
+  #, "8TRA.DE" = "Traton SE"
   , "MBG.DE" = "Mercedes-Benz Group AG"
   , "INRG.MI" = "iShares Global Clean Energy UCITS ETF USD (Dist)"
   , "DX2J.SG" = "Xtrackers MSCI Europe Small Cap UCITS ETF"
