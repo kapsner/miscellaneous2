@@ -1,5 +1,6 @@
 list1 <- list(
-  "CNTG" = "Centogene N.V."
+  "ACT.DE" = "AlzChem Group AG"
+  , "CNTG" = "Centogene N.V."
   # , "HVJD.SG" = "ARERO-DER WELTFONDS INH."
   , "IFX.DE" = "Infineon Technologies AG"
   , "ELG.DE" = "Elmos Semiconductor SE"
