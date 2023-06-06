@@ -12,6 +12,7 @@ list1 <- list(
 
 list2 <- list(
   "IMR.F" = "AC Immune"
+  , "NVCR" = "NovoCure Limited"
   , "PAH3.DE" = "Porsche Automobil Holding SE"
   , "DBXJ.DE" = "Xtrackers MSCI Japan UCITS ETF"
   , "XDWD.DE" = "Xtrackers MSCI World UCITS ETF"
