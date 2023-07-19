@@ -5,6 +5,7 @@ list1 <- list(
   , "ACT.DE" = "AlzChem Group AG"
   , "22UA.DE" = "BioNTech SE"
   , "CAT1.F" = "Caterpillar Inc."
+  , "CNTG" = "Centogene N.V."
   , "CPA.DE" = "Colgate-Palmolive Company"
   , "DRW3.DE" = "Drägerwerk AG & Co. KGaA"
   , "ELG.DE" = "Elmos Semiconductor SE"
@@ -37,6 +38,5 @@ list2 <- list(
   , "MBG.DE" = "Mercedes-Benz Group AG"
   , "SHL.DE" = "Siemens Healthineers AG"
   , "NVCR" = "NovoCure Limited"
-  , "CNTG" = "Centogene N.V."
   , "ADA-EUR" = "Cardano EUR"
 )
