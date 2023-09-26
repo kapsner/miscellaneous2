@@ -34,6 +34,6 @@ list2 <- list(
   , "AMD.F" = "Advanced Micro Devices, Inc."
   , "ELG.DE" = "Elmos Semiconductor SE"
   , "NJB.F" = "NIBE Industrier AB (publ)"
-  , "NCH2.DE" = "thyssenkrupp nucera AG & Co. KGaA"
+  , "NCH2.F" = "thyssenkrupp nucera AG & Co. KGaA"
   , "ADA-EUR" = "Cardano EUR"
 )
