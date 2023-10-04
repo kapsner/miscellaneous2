@@ -11,9 +11,9 @@ list1 <- list(
   , "KTA.DE" = "Knaus Tabbert AG"
   , "MAT1.F" = "Panasonic Holdings Corp"
   , "S9I.F" = "Stemmer Imaging AG"
-  , "PAH3.DE" = "Porsche Automobil Holding SE"
   , "VOW3.DE" = "Volkswagen Vz"
   , "MBG.DE" = "Mercedes-Benz Group AG"
+  , "VIB3.DE" = "Villeroy & Boch AG"
 )
 
 list2 <- list(
@@ -29,11 +29,22 @@ list2 <- list(
   , "XDWS.DE" = "Xtrackers MSCI World Consumer Staples UCITS ETF"
   , "XZEU.DE" = "Xtrackers MSCI Europe ESG UCITS ETF"
   , "DBXJ.DE" = "Xtrackers MSCI Japan UCITS ETF"
-  , "SHL.DE" = "Siemens Healthineers AG"
   , "IMR.F" = "AC Immune"
+  , "NCH2.DE" = "thyssenkrupp nucera AG & Co. KGaA"
+  , "NJB.F" = "NIBE Industrier AB (publ)"
   , "AMD.F" = "Advanced Micro Devices, Inc."
   , "ELG.DE" = "Elmos Semiconductor SE"
-  , "NJB.F" = "NIBE Industrier AB (publ)"
-  #, "NCH2.DE" = "thyssenkrupp nucera AG & Co. KGaA"
+  , "SHL.DE" = "Siemens Healthineers AG"
+  , "PAH3.DE" = "Porsche Automobil Holding SE"
   , "ADA-EUR" = "Cardano EUR"
+)
+
+list3 <- list(
+  "DAX" = "^GDAXI"
+  , "S&P 500" = "^GSPC"
+  , "Dow Jones Industrial Average" = "^DJI"
+  , "Nasdaq Composite" = "^IXIC"
+  , "Gold" = "GC=F"
+  , "EUR/USD" = "EURUSD=X"
+  , "Crude Oil" = "CL=F"
 )
