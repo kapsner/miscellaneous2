@@ -40,11 +40,11 @@ list2 <- list(
 )
 
 list3 <- list(
-  "DAX" = "^GDAXI"
-  , "S&P 500" = "^GSPC"
-  , "Dow Jones Industrial Average" = "^DJI"
-  , "Nasdaq Composite" = "^IXIC"
-  , "Gold" = "GC=F"
-  , "EUR/USD" = "EURUSD=X"
-  , "Crude Oil" = "CL=F"
+  "^GDAXI" = "DAX"
+  , "^GSPC" = "S&P 500"
+  , "^DJI" = "Dow Jones Industrial Average"
+  , "^IXIC" = "Nasdaq Composite"
+  , "GC=F" = "Gold"
+  , "EURUSD=X" = "EUR/USD"
+  , "CL=F" = "Crude Oil"
 )
