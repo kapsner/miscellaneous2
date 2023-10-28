@@ -34,7 +34,7 @@ list2 <- list(
   , "ELG.DE" = "Elmos Semiconductor SE"
   , "SHL.DE" = "Siemens Healthineers AG"
   , "PAH3.DE" = "Porsche Automobil Holding SE"
-  , "P911.SG" = "Dr. Ing. h.c. F. Porsche AG"
+  , "P911.DE" = "Dr. Ing. h.c. F. Porsche AG"
   , "VOW3.DE" = "Volkswagen Vz"
   , "MBG.DE" = "Mercedes-Benz Group AG"
   , "ADA-EUR" = "Cardano EUR"
