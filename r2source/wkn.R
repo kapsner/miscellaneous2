@@ -5,14 +5,11 @@ list1 <- list(
   , "CNTG" = "Centogene N.V."
   , "CPA.DE" = "Colgate-Palmolive Company"
   , "DRW3.DE" = "Drägerwerk AG & Co. KGaA"
-  , "FALG.PA" = "Fermentalg SA"
   , "HEI.DE" = "HeidelbergCement AG"
   , "IFX.DE" = "Infineon Technologies AG"
   , "KTA.DE" = "Knaus Tabbert AG"
   , "MAT1.F" = "Panasonic Holdings Corp"
   , "S9I.F" = "Stemmer Imaging AG"
-  , "VOW3.DE" = "Volkswagen Vz"
-  , "MBG.DE" = "Mercedes-Benz Group AG"
   , "VIB3.DE" = "Villeroy & Boch AG"
 )
 
@@ -30,12 +27,16 @@ list2 <- list(
   , "XZEU.DE" = "Xtrackers MSCI Europe ESG UCITS ETF"
   , "DBXJ.DE" = "Xtrackers MSCI Japan UCITS ETF"
   , "IMR.F" = "AC Immune"
+  , "FALG.PA" = "Fermentalg SA"
   , "NCH2.DE" = "thyssenkrupp nucera AG & Co. KGaA"
   , "NJB.F" = "NIBE Industrier AB (publ)"
   , "AMD.F" = "Advanced Micro Devices, Inc."
   , "ELG.DE" = "Elmos Semiconductor SE"
   , "SHL.DE" = "Siemens Healthineers AG"
   , "PAH3.DE" = "Porsche Automobil Holding SE"
+  , "P911.SG" = "Dr. Ing. h.c. F. Porsche AG"
+  , "VOW3.DE" = "Volkswagen Vz"
+  , "MBG.DE" = "Mercedes-Benz Group AG"
   , "ADA-EUR" = "Cardano EUR"
 )
 
