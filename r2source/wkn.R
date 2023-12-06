@@ -44,6 +44,7 @@ list3 <- list(
   "^GDAXI" = "DAX Performance Index"
   , "^GDAXIP" = "DAX KURSINDEX"
   , "^GSPC" = "S&P 500"
+  , "^SPXEW" = "S&P EQUAL WEIGHT INDEX"
   , "^DJI" = "Dow Jones Industrial Average"
   , "^IXIC" = "Nasdaq Composite"
   , "GC=F" = "Gold"
