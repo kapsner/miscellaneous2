@@ -37,6 +37,7 @@ list2 <- list(
   , "P911.DE" = "Dr. Ing. h.c. F. Porsche AG"
   , "VOW3.DE" = "Volkswagen Vz"
   , "MBG.DE" = "Mercedes-Benz Group AG"
+  , "ZAL.DE" = "Zalando SE"
   , "ADA-EUR" = "Cardano EUR"
 )
 
