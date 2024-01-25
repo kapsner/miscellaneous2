@@ -11,6 +11,7 @@ list1 <- list(
   , "MAT1.F" = "Panasonic Holdings Corp"
   , "S9I.F" = "Stemmer Imaging AG"
   , "VIB3.DE" = "Villeroy & Boch AG"
+  , "4R0.F" = "Oxford Nanopore Technologies plc"
 )
 
 list2 <- list(
