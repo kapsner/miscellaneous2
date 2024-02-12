@@ -1,5 +1,8 @@
 list1 <- list(
-  "VOL4.F" = "AB Volvo (publ)"
+  "0MLC.IL" = "iShares STOXX Europe Select Dividend 30 UCITS ETF (DE)"
+  , "IS0E.DE" = "iShares V PLC iShares Gold Producers UCITS ETF USD (Acc)"
+  , "ISPA.DE" = "iShares STOXX Global Select Dividend 100 UCITS ETF (DE)"
+  , "HLAG.DE" = "Hapag-Lloyd Aktiengesellschaft"
   , "ACT.DE" = "AlzChem Group AG"
   , "22UA.DE" = "BioNTech SE"
   , "CNTG" = "Centogene N.V."
@@ -7,9 +10,6 @@ list1 <- list(
   , "DRW3.DE" = "Drägerwerk AG & Co. KGaA"
   , "HEI.DE" = "HeidelbergCement AG"
   , "IFX.DE" = "Infineon Technologies AG"
-  , "KTA.DE" = "Knaus Tabbert AG"
-  , "MAT1.F" = "Panasonic Holdings Corp"
-  , "S9I.F" = "Stemmer Imaging AG"
   , "VIB3.DE" = "Villeroy & Boch AG"
   , "4R0.F" = "Oxford Nanopore Technologies plc"
 )
