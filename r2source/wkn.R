@@ -26,7 +26,7 @@ list2 <- list(
   , "INRG.MI" = "iShares Global Clean Energy UCITS ETF USD (Dist)"
   , "XDWS.DE" = "Xtrackers MSCI World Consumer Staples UCITS ETF"
   , "XZEU.DE" = "Xtrackers MSCI Europe ESG UCITS ETF"
-  , "DBXJ.DE" = "Xtrackers MSCI Japan UCITS ETF"
+  #, "DBXJ.DE" = "Xtrackers MSCI Japan UCITS ETF"
   , "IMR.F" = "AC Immune"
   , "FALG.PA" = "Fermentalg SA"
   , "NCH2.DE" = "thyssenkrupp nucera AG & Co. KGaA"
