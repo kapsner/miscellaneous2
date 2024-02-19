@@ -19,7 +19,7 @@ list2 <- list(
   , "IVV" = "iShares Core S&P 500 ETF"
   , "EXS2.DE" = "iShares TecDAX UCITS ETF (DE)"
   , "ESIH.DE" = "iShares MSCI Europe Health Care Sector UCITS ETF"
-  , "DXSE.DE" = "Xtrackers MSCI Europe Health Care ESG Screened UCITS ETF"
+  #, "DXSE.DE" = "Xtrackers MSCI Europe Health Care ESG Screened UCITS ETF"
   , "XSX6.DE" = "Xtrackers Stoxx Europe 600 UCITS ETF"
   , "DX2J.SG" = "Xtrackers MSCI Europe Small Cap UCITS ETF"
   , "INRG.MI" = "iShares Global Clean Energy UCITS ETF USD (Dist)"
