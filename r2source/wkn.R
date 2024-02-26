@@ -1,8 +1,5 @@
 list1 <- list(
   "KYTX" = "Kyverna Therapeutics, Inc."
-  , "0MLC.IL" = "iShares STOXX Europe Select Dividend 30 UCITS ETF (DE)"
-  , "IS0E.DE" = "iShares V PLC iShares Gold Producers UCITS ETF USD (Acc)"
-  , "ISPA.DE" = "iShares STOXX Global Select Dividend 100 UCITS ETF (DE)"
   , "ACT.DE" = "AlzChem Group AG"
   , "22UA.DE" = "BioNTech SE"
   , "CNTG" = "Centogene N.V."
@@ -27,6 +24,9 @@ list2 <- list(
   , "XDWS.DE" = "Xtrackers MSCI World Consumer Staples UCITS ETF"
   #, "XZEU.DE" = "Xtrackers MSCI Europe ESG UCITS ETF"
   #, "DBXJ.DE" = "Xtrackers MSCI Japan UCITS ETF"
+  , "0MLC.IL" = "iShares STOXX Europe Select Dividend 30 UCITS ETF (DE)"
+  , "IS0E.DE" = "iShares V PLC iShares Gold Producers UCITS ETF USD (Acc)"
+  , "ISPA.DE" = "iShares STOXX Global Select Dividend 100 UCITS ETF (DE)"
   , "IMR.F" = "AC Immune"
   , "FALG.PA" = "Fermentalg SA"
   , "NCH2.DE" = "thyssenkrupp nucera AG & Co. KGaA"
