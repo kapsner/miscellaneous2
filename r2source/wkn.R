@@ -1,5 +1,6 @@
 list1 <- list(
-  "0MLC.IL" = "iShares STOXX Europe Select Dividend 30 UCITS ETF (DE)"
+  "KYTX" = "Kyverna Therapeutics, Inc."
+  , "0MLC.IL" = "iShares STOXX Europe Select Dividend 30 UCITS ETF (DE)"
   , "IS0E.DE" = "iShares V PLC iShares Gold Producers UCITS ETF USD (Acc)"
   , "ISPA.DE" = "iShares STOXX Global Select Dividend 100 UCITS ETF (DE)"
   , "ACT.DE" = "AlzChem Group AG"
