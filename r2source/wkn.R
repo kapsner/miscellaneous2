@@ -33,6 +33,7 @@ list2 <- list(
   , "NJB.F" = "NIBE Industrier AB (publ)"
   , "AMD.F" = "Advanced Micro Devices, Inc."
   , "ELG.DE" = "Elmos Semiconductor SE"
+  , "NVD.DE" = "NVIDIA Corporation"
   #, "HLAG.DE" = "Hapag-Lloyd Aktiengesellschaft"
   , "SHL.DE" = "Siemens Healthineers AG"
   , "PAH3.DE" = "Porsche Automobil Holding SE"
