@@ -27,7 +27,7 @@ list2 <- list(
   , "ISPA.DE" = "iShares STOXX Global Select Dividend 100 UCITS ETF (DE)"
   , "IMR.F" = "AC Immune"
   , "CNTG" = "Centogene N.V."
-  , "FALG.PA" = "Fermentalg SA"
+  , "1F6.F" = "Fermentalg SA"
   , "NCH2.DE" = "thyssenkrupp nucera AG & Co. KGaA"
   , "IFX.DE" = "Infineon Technologies AG"
   , "NJB.F" = "NIBE Industrier AB (publ)"
