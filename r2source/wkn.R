@@ -5,8 +5,8 @@ list1 <- list(
   , "CPA.DE" = "Colgate-Palmolive Company"
   , "DRW3.DE" = "Drägerwerk AG & Co. KGaA"
   , "HEI.DE" = "HeidelbergCement AG"
+  , "IFX.DE" = "Infineon Technologies AG"
   , "VIB3.DE" = "Villeroy & Boch AG"
-  , "4R0.F" = "Oxford Nanopore Technologies plc"
 )
 
 list2 <- list(
@@ -29,13 +29,15 @@ list2 <- list(
   , "CNTG" = "Centogene N.V."
   , "1F6.F" = "Fermentalg SA"
   , "NCH2.DE" = "thyssenkrupp nucera AG & Co. KGaA"
-  , "IFX.DE" = "Infineon Technologies AG"
   , "NJB.F" = "NIBE Industrier AB (publ)"
+  , "4R0.F" = "Oxford Nanopore Technologies plc"
   , "AMD.F" = "Advanced Micro Devices, Inc."
   , "ELG.DE" = "Elmos Semiconductor SE"
+  , "KTA.DE" = "Knaus Tabbert AG"
   , "NVD.DE" = "NVIDIA Corporation"
   #, "HLAG.DE" = "Hapag-Lloyd Aktiengesellschaft"
   , "SHL.DE" = "Siemens Healthineers AG"
+  , "SZU.DE" = "Südzucker AG"
   , "PAH3.DE" = "Porsche Automobil Holding SE"
   , "P911.DE" = "Dr. Ing. h.c. F. Porsche AG"
   , "VOW3.DE" = "Volkswagen Vz"
