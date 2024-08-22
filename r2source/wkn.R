@@ -1,6 +1,8 @@
 list1 <- list(
   #"KYTX" = "Kyverna Therapeutics, Inc."
-  "ACT.DE" = "AlzChem Group AG"
+  "MPCK.DE" = "MPC Münchmeyer Petersen Capital AG"
+  , "DBXG.DE" = "Xtrackers II Eurozone Government Bond 25+ UCITS ETF 1C"
+  , "ACT.DE" = "AlzChem Group AG"
   , "22UA.DE" = "BioNTech SE"
   , "CPA.DE" = "Colgate-Palmolive Company"
   , "DRW3.DE" = "Drägerwerk AG & Co. KGaA"
