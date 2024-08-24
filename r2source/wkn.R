@@ -1,14 +1,12 @@
 list1 <- list(
   #"KYTX" = "Kyverna Therapeutics, Inc."
-  "MPCK.DE" = "MPC Münchmeyer Petersen Capital AG"
-  , "DBXG.DE" = "Xtrackers II Eurozone Government Bond 25+ UCITS ETF 1C"
-  , "NDA.DE" = "Aurubis AG"
-  , "ACT.DE" = "AlzChem Group AG"
+  "ACT.DE" = "AlzChem Group AG"
   , "22UA.DE" = "BioNTech SE"
   , "CPA.DE" = "Colgate-Palmolive Company"
   , "DRW3.DE" = "Drägerwerk AG & Co. KGaA"
   , "HEI.DE" = "HeidelbergCement AG"
   , "IFX.DE" = "Infineon Technologies AG"
+  , "MPCK.DE" = "MPC Münchmeyer Petersen Capital AG"
   , "VIB3.DE" = "Villeroy & Boch AG"
 )
 
@@ -28,6 +26,7 @@ list2 <- list(
   , "0MLC.IL" = "iShares STOXX Europe Select Dividend 30 UCITS ETF (DE)"
   , "IS0E.DE" = "iShares V PLC iShares Gold Producers UCITS ETF USD (Acc)"
   , "ISPA.DE" = "iShares STOXX Global Select Dividend 100 UCITS ETF (DE)"
+  , "DBXG.DE" = "Xtrackers II Eurozone Government Bond 25+ UCITS ETF 1C"
   , "IMR.F" = "AC Immune"
   , "CNTG" = "Centogene N.V."
   , "1F6.F" = "Fermentalg SA"
@@ -35,6 +34,7 @@ list2 <- list(
   , "NJB.F" = "NIBE Industrier AB (publ)"
   , "4R0.F" = "Oxford Nanopore Technologies plc"
   , "AMD.F" = "Advanced Micro Devices, Inc."
+  , "NDA.DE" = "Aurubis AG"
   , "ELG.DE" = "Elmos Semiconductor SE"
   , "KTA.DE" = "Knaus Tabbert AG"
   , "NVD.DE" = "NVIDIA Corporation"
