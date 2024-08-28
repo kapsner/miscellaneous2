@@ -1,6 +1,12 @@
 list1 <- list(
   #"KYTX" = "Kyverna Therapeutics, Inc."
-  "ACT.DE" = "AlzChem Group AG"
+  "GDAXI" = "DAX Performance Index"
+  , "^GDAXIP" = "DAX KURSINDEX"
+  , "^GSPC" = "S&P 500"
+  , "^SPXEW" = "S&P EQUAL WEIGHT INDEX"
+  , "^DJI" = "Dow Jones Industrial Average"
+  , "^IXIC" = "Nasdaq Composite"
+  , "ACT.DE" = "AlzChem Group AG"
   , "22UA.DE" = "BioNTech SE"
   , "CPA.DE" = "Colgate-Palmolive Company"
   , "DRW3.DE" = "Drägerwerk AG & Co. KGaA"
