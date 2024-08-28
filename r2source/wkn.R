@@ -1,6 +1,6 @@
 list1 <- list(
   #"KYTX" = "Kyverna Therapeutics, Inc."
-  "DAXI" = "DAX Performance Index"
+  "^GDAXI" = "DAX Performance Index"
   , "^GDAXIP" = "DAX KURSINDEX"
   , "^GSPC" = "S&P 500"
   , "^SPXEW" = "S&P EQUAL WEIGHT INDEX"
