@@ -50,7 +50,10 @@ list2 <- list(
 )
 
 list3 <- list(
-  "^GDAXI" = "DAX Performance Index"
+  "HXCK.DE" = "Ernst Russ AG"
+  , "QBY.DE" = "q.beyond AG"
+  #, "MOH.DE" = "LVMH Moet Hennessy"
+  , "^GDAXI" = "DAX Performance Index"
   , "^GDAXIP" = "DAX KURSINDEX"
   , "^GSPC" = "S&P 500"
   , "^SPXEW" = "S&P EQUAL WEIGHT INDEX"
