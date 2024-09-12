@@ -4,9 +4,11 @@ list1 <- list(
   , "22UA.DE" = "BioNTech SE"
   , "CPA.DE" = "Colgate-Palmolive Company"
   , "DRW3.DE" = "Drägerwerk AG & Co. KGaA"
+  , "HXCK.DE" = "Ernst Russ AG"
   , "HEI.DE" = "HeidelbergCement AG"
   , "IFX.DE" = "Infineon Technologies AG"
   , "MPCK.DE" = "MPC Münchmeyer Petersen Capital AG"
+  , "QBY.DE" = "q.beyond AG"
   , "VIB3.DE" = "Villeroy & Boch AG"
 )
 
@@ -50,10 +52,9 @@ list2 <- list(
 )
 
 list3 <- list(
-  "HXCK.DE" = "Ernst Russ AG"
-  , "QBY.DE" = "q.beyond AG"
+  
   #, "MOH.DE" = "LVMH Moet Hennessy"
-  , "^GDAXI" = "DAX Performance Index"
+  "^GDAXI" = "DAX Performance Index"
   , "^GDAXIP" = "DAX KURSINDEX"
   , "^GSPC" = "S&P 500"
   , "^SPXEW" = "S&P EQUAL WEIGHT INDEX"
