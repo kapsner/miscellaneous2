@@ -52,9 +52,8 @@ list2 <- list(
 )
 
 list3 <- list(
-  
-  #, "MOH.DE" = "LVMH Moet Hennessy"
-  "^GDAXI" = "DAX Performance Index"
+  "MOH.DE" = "LVMH Moet Hennessy"
+  , "^GDAXI" = "DAX Performance Index"
   , "^GDAXIP" = "DAX KURSINDEX"
   , "^GSPC" = "S&P 500"
   , "^SPXEW" = "S&P EQUAL WEIGHT INDEX"
