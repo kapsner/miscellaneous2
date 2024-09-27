@@ -10,6 +10,9 @@ list1 <- list(
   , "MPCK.DE" = "MPC Münchmeyer Petersen Capital AG"
   , "QBY.DE" = "q.beyond AG"
   , "VIB3.DE" = "Villeroy & Boch AG"
+  , "P911.DE" = "Dr. Ing. h.c. F. Porsche AG"
+  , "VOW3.DE" = "Volkswagen Vz"
+  , "MBG.DE" = "Mercedes-Benz Group AG"
 )
 
 list2 <- list(
@@ -44,9 +47,6 @@ list2 <- list(
   , "SHL.DE" = "Siemens Healthineers AG"
   , "SZU.DE" = "Südzucker AG"
   , "PAH3.DE" = "Porsche Automobil Holding SE"
-  , "P911.DE" = "Dr. Ing. h.c. F. Porsche AG"
-  , "VOW3.DE" = "Volkswagen Vz"
-  , "MBG.DE" = "Mercedes-Benz Group AG"
   #, "ZAL.DE" = "Zalando SE"
   , "ADA-EUR" = "Cardano EUR"
 )
