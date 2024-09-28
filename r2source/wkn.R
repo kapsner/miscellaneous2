@@ -42,6 +42,7 @@ list2 <- list(
   , "NDA.DE" = "Aurubis AG"
   , "ELG.DE" = "Elmos Semiconductor SE"
   , "KTA.DE" = "Knaus Tabbert AG"
+  , "MOH.DE" = "LVMH Moet Hennessy"
   , "NVD.DE" = "NVIDIA Corporation"
   #, "HLAG.DE" = "Hapag-Lloyd Aktiengesellschaft"
   , "SHL.DE" = "Siemens Healthineers AG"
@@ -52,8 +53,7 @@ list2 <- list(
 )
 
 list3 <- list(
-  "MOH.DE" = "LVMH Moet Hennessy"
-  , "^GDAXI" = "DAX Performance Index"
+  "^GDAXI" = "DAX Performance Index"
   , "^GDAXIP" = "DAX KURSINDEX"
   , "^GSPC" = "S&P 500"
   , "^SPXEW" = "S&P EQUAL WEIGHT INDEX"
