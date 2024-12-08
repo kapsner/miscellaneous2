@@ -1,6 +1,7 @@
 list1 <- list(
   #"KYTX" = "Kyverna Therapeutics, Inc."
   "ACT.DE" = "AlzChem Group AG"
+  , "BST.DE" = "Bastei Lübbe AG"
   , "22UA.DE" = "BioNTech SE"
   , "CPA.DE" = "Colgate-Palmolive Company"
   , "HEI.DE" = "HeidelbergCement AG"
