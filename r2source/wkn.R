@@ -1,17 +1,12 @@
 list1 <- list(
   #"KYTX" = "Kyverna Therapeutics, Inc."
   "ACT.DE" = "AlzChem Group AG"
-  , "BST.DE" = "Bastei Lübbe AG"
   , "22UA.DE" = "BioNTech SE"
   , "CPA.DE" = "Colgate-Palmolive Company"
-  , "D6H.DE" = "DATAGROUP SE"
   , "HEI.DE" = "HeidelbergCement AG"
   , "IFX.DE" = "Infineon Technologies AG"
   , "MSGL.HM" = "msg life ag"
-  , "QBY.DE" = "q.beyond AG"
   , "VIB3.DE" = "Villeroy & Boch AG"
-  , "P911.DE" = "Dr. Ing. h.c. F. Porsche AG"
-  , "VOW3.DE" = "Volkswagen Vz"
   , "MBG.DE" = "Mercedes-Benz Group AG"
 )
 
@@ -34,12 +29,15 @@ list2 <- list(
   , "ISPA.DE" = "iShares STOXX Global Select Dividend 100 UCITS ETF (DE)"
   , "DBXG.DE" = "Xtrackers II Eurozone Government Bond 25+ UCITS ETF 1C"
   , "IMR.F" = "AC Immune"
+  , "BST.DE" = "Bastei Lübbe AG"
   , "1F6.F" = "Fermentalg SA"
   , "NCH2.DE" = "thyssenkrupp nucera AG & Co. KGaA"
   , "NJB.F" = "NIBE Industrier AB (publ)"
   , "4R0.F" = "Oxford Nanopore Technologies plc"
+  , "QBY.DE" = "q.beyond AG"
   , "AMD.F" = "Advanced Micro Devices, Inc."
   , "NDA.DE" = "Aurubis AG"
+  , "D6H.DE" = "DATAGROUP SE"
   , "DRW3.DE" = "Drägerwerk AG & Co. KGaA"
   , "HXCK.DE" = "Ernst Russ AG"
   , "ELG.DE" = "Elmos Semiconductor SE"
@@ -53,6 +51,8 @@ list2 <- list(
   , "SZU.DE" = "Südzucker AG"
   , "PAH3.DE" = "Porsche Automobil Holding SE"
   #, "ZAL.DE" = "Zalando SE"
+  , "P911.DE" = "Dr. Ing. h.c. F. Porsche AG"
+  , "VOW3.DE" = "Volkswagen Vz"
   , "ADA-EUR" = "Cardano EUR"
 )
 
