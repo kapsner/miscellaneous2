@@ -63,6 +63,7 @@ list3 <- list(
   , "^SPXEW" = "S&P EQUAL WEIGHT INDEX"
   , "^DJI" = "Dow Jones Industrial Average"
   , "^IXIC" = "Nasdaq Composite"
+  , "^TNX" = "CBOE Interest Rate 10 Year T No"
   , "GC=F" = "Gold"
   , "EURUSD=X" = "EUR/USD"
   , "CL=F" = "Crude Oil"
