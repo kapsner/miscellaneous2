@@ -63,7 +63,7 @@ list3 <- list(
   , "^SPXEW" = list("name" = "S&P EQUAL WEIGHT INDEX", "src" = "yahoo")
   , "^DJI" = list("name" = "Dow Jones Industrial Average", "src" = "yahoo")
   , "^IXIC" = list("name" = "Nasdaq Composite", "src" = "yahoo")
-  , "^TNX" = list("name" = " Market Yield on U.S. Treasury Securities at 10-Year Constant Maturity", "src" = "FRED")
+  , "DGS10" = list("name" = " Market Yield on U.S. Treasury Securities at 10-Year Constant Maturity", "src" = "FRED")
   , "GC=F" = list("name" = "Gold", "src" = "yahoo")
   , "EURUSD=X" = list("name" = "EUR/USD", "src" = "yahoo")
   , "CL=F" = list("name" = "Crude Oil", "src" = "yahoo")
