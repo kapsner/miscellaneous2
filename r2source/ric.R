@@ -6,12 +6,9 @@ list1 <- list(
   , "HLAG.DE" = list("name" = "Hapag-Lloyd Aktiengesellschaft", "src" = "yahoo")
   , "HEI.DE" = list("name" = "HeidelbergCement AG", "src" = "yahoo")
   , "IFX.DE" = list("name" = "Infineon Technologies AG", "src" = "yahoo")
-  , "KHNZ.DE" = list("name" = "The Kraft Heinz Company", "src" = "yahoo")
   , "MSGL.HM" = list("name" = "msg life ag", "src" = "yahoo")
   , "MBG.DE" = list("name" = "Mercedes-Benz Group AG", "src" = "yahoo")
   , "SIX3.DE" = list("name" = "Sixt SE", "src" = "yahoo")
-  , "WAF.DE" = list("name" = "Siltronic AG", "src" = "yahoo")
-  , "WCH.DE" = list("name" = "Wacker Chemie AG", "src" = "yahoo")
 )
 
 list2 <- list(
@@ -46,6 +43,7 @@ list2 <- list(
   , "HXCK.DE" = list("name" = "Ernst Russ AG", "src" = "yahoo")
   , "ELG.DE" = list("name" = "Elmos Semiconductor SE", "src" = "yahoo")
   , "KTA.DE" = list("name" = "Knaus Tabbert AG", "src" = "yahoo")
+  , "KHNZ.DE" = list("name" = "The Kraft Heinz Company", "src" = "yahoo")
   , "MOH.DE" = list("name" = "LVMH Moet Hennessy", "src" = "yahoo")
   , "MPCK.DE" = list("name" = "MPC Münchmeyer Petersen Capital AG", "src" = "yahoo")
   , "NVD.DE" = list("name" = "NVIDIA Corporation", "src" = "yahoo")
@@ -57,6 +55,8 @@ list2 <- list(
   , "P911.DE" = list("name" = "Dr. Ing. h.c. F. Porsche AG", "src" = "yahoo")
   , "VIB3.DE" = list("name" = "Villeroy & Boch AG", "src" = "yahoo")
   , "VOW3.DE" = list("name" = "Volkswagen Vz", "src" = "yahoo")
+  , "WAF.DE" = list("name" = "Siltronic AG", "src" = "yahoo")
+  , "WCH.DE" = list("name" = "Wacker Chemie AG", "src" = "yahoo")
   , "ADA-EUR" = list("name" = "Cardano EUR", "src" = "yahoo")
 )
 
