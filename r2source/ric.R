@@ -2,6 +2,7 @@ list1 <- list(
   #"KYTX" = list("name" = "Kyverna Therapeutics, Inc.", "src" = "yahoo")
   "ACT.DE" = list("name" = "AlzChem Group AG", "src" = "yahoo")
   , "22UA.DE" = list("name" = "BioNTech SE", "src" = "yahoo")
+  , "BAYN.DE" = list("name" = "Bayer Aktiengesellschaft", "src" = "yahoo")
   , "CPA.DE" = list("name" = "Colgate-Palmolive Company", "src" = "yahoo")
   , "HLAG.DE" = list("name" = "Hapag-Lloyd Aktiengesellschaft", "src" = "yahoo")
   , "HEI.DE" = list("name" = "HeidelbergCement AG", "src" = "yahoo")
