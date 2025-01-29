@@ -11,6 +11,7 @@ list1 <- list(
   , "MBG.DE" = list("name" = "Mercedes-Benz Group AG", "src" = "yahoo")
   #, "P911.DE" = list("name" = "Dr. Ing. h.c. F. Porsche AG", "src" = "yahoo")
   #, "QBY.DE" = list("name" = "q.beyond AG", "src" = "yahoo")
+  , "R3NK.DE" = list("name" = "RENK Group AG", "src" = "yahoo")
   , "SIX3.DE" = list("name" = "Sixt SE", "src" = "yahoo")
   , "VIB3.DE" = list("name" = "Villeroy & Boch AG", "src" = "yahoo")
   , "VOW3.DE" = list("name" = "Volkswagen Vz", "src" = "yahoo")
