@@ -7,6 +7,7 @@ list1 <- list(
   , "HEI.DE" = list("name" = "HeidelbergCement AG", "src" = "yahoo")
   #, "IFX.DE" = list("name" = "Infineon Technologies AG", "src" = "yahoo")
   #, "KHNZ.DE" = list("name" = "The Kraft Heinz Company", "src" = "yahoo")
+  , "LAR0.F" = list("name" = "Lam Research Corporation", "src" = "yahoo")
   #, "MSGL.HM" = list("name" = "msg life ag", "src" = "yahoo")
   , "MBG.DE" = list("name" = "Mercedes-Benz Group AG", "src" = "yahoo")
   #, "P911.DE" = list("name" = "Dr. Ing. h.c. F. Porsche AG", "src" = "yahoo")
