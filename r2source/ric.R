@@ -69,6 +69,7 @@ list2 <- list(
 list3 <- list(
   "^GDAXI" = list("name" = "DAX Performance Index", "src" = "yahoo")
   , "^GDAXIP" = list("name" = "DAX KURSINDEX", "src" = "yahoo")
+  , "^MDAXI" = list("name" = "MDAX", "src" = "yahoo")
   , "^GSPC" = list("name" = "S&P 500", "src" = "yahoo")
   , "^SPXEW" = list("name" = "S&P EQUAL WEIGHT INDEX", "src" = "yahoo")
   , "^DJI" = list("name" = "Dow Jones Industrial Average", "src" = "yahoo")
