@@ -13,7 +13,6 @@ list1 <- list(
   , "EXS3.DE" = list("name" = "iShares MDAX UCITS ETF", "src" = "yahoo")
   #, "P911.DE" = list("name" = "Dr. Ing. h.c. F. Porsche AG", "src" = "yahoo")
   #, "QBY.DE" = list("name" = "q.beyond AG", "src" = "yahoo")
-  , "R3NK.DE" = list("name" = "RENK Group AG", "src" = "yahoo")
   , "SIX3.DE" = list("name" = "Sixt SE", "src" = "yahoo")
   , "VIB3.DE" = list("name" = "Villeroy & Boch AG", "src" = "yahoo")
   , "VOW3.DE" = list("name" = "Volkswagen Vz", "src" = "yahoo")
@@ -64,7 +63,8 @@ list2 <- list(
   , "SZU.DE" = list("name" = "Südzucker AG", "src" = "yahoo")
   , "PAH3.DE" = list("name" = "Porsche Automobil Holding SE", "src" = "yahoo")
   #, "ZAL.DE" = list("name" = "Zalando SE", "src" = "yahoo")
-  , "WAF.DE" = list("name" = "Siltronic AG", "src" = "yahoo")
+  , "R3NK.DE" = list("name" = "RENK Group AG", "src" = "yahoo")
+  #, "WAF.DE" = list("name" = "Siltronic AG", "src" = "yahoo")
   , "ADA-EUR" = list("name" = "Cardano EUR", "src" = "yahoo")
 )
 
