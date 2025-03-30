@@ -52,7 +52,7 @@ list2 <- list(
   , "DRW3.DE" = list("name" = "Drägerwerk AG & Co. KGaA", "src" = "yahoo")
   , "HXCK.DE" = list("name" = "Ernst Russ AG", "src" = "yahoo")
   , "ELG.DE" = list("name" = "Elmos Semiconductor SE", "src" = "yahoo")
-  , "HLAG.DE" = list("name" = "Hapag-Lloyd Aktiengesellschaft", "src" = "yahoo")
+  #, "HLAG.DE" = list("name" = "Hapag-Lloyd Aktiengesellschaft", "src" = "yahoo")
   , "KTA.DE" = list("name" = "Knaus Tabbert AG", "src" = "yahoo")
   , "LAR0.F" = list("name" = "Lam Research Corporation", "src" = "yahoo")
   , "MDO.DE" = list("name" = "McDonald's Corporation", "src" = "yahoo")
