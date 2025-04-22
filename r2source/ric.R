@@ -46,6 +46,8 @@ list2 <- list(
   , "NDA.DE" = list("name" = "Aurubis AG", "src" = "yahoo")
   #, "BAYN.DE" = list("name" = "Bayer Aktiengesellschaft", "src" = "yahoo")
   , "BMW.DE" = list("name" = "Bayerische Motoren Werke AG", "src" = "yahoo")
+  , "BRYN.DE" = list("name" = "Berkshire Hathaway Inc.", "src" = "yahoo")
+  , "CAT1.DE" = list("name" = "Caterpillar Inc.", "src" = "yahoo")
   #, "D6H.DE" = list("name" = "DATAGROUP SE", "src" = "yahoo")
   , "DRW3.DE" = list("name" = "Drägerwerk AG & Co. KGaA", "src" = "yahoo")
   , "HXCK.DE" = list("name" = "Ernst Russ AG", "src" = "yahoo")
