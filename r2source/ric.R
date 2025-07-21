@@ -12,6 +12,7 @@ list1 <- list(
   #, "P911.DE" = list("name" = "Dr. Ing. h.c. F. Porsche AG", "src" = "yahoo")
   #, "QBY.DE" = list("name" = "q.beyond AG", "src" = "yahoo")
   , "IVV" = list("name" = "iShares Core S&P 500 ETF", "src" = "yahoo")
+  , "TLT" = list("name" = "iShares 20+ Year Treasury Bond ETF", "src" = "yahoo")
   , "SIX3.DE" = list("name" = "Sixt SE", "src" = "yahoo")
   , "FR.PA" = list("name" = "Valeo SE", "src" = "yahoo")
   , "VIB3.DE" = list("name" = "Villeroy & Boch AG", "src" = "yahoo")
