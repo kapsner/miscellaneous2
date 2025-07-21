@@ -42,7 +42,7 @@ list2 <- list(
   , "NCH2.DE" = list("name" = "thyssenkrupp nucera AG & Co. KGaA", "src" = "yahoo")
   , "NJB.F" = list("name" = "NIBE Industrier AB (publ)", "src" = "yahoo")
   , "4R0.F" = list("name" = "Oxford Nanopore Technologies plc", "src" = "yahoo")
-  , "AMD.F" = list("name" = "Advanced Micro Devices, Inc.", "src" = "yahoo")
+  #, "AMD.F" = list("name" = "Advanced Micro Devices, Inc.", "src" = "yahoo")
   , "ACT.DE" = list("name" = "AlzChem Group AG", "src" = "yahoo")
   #, "NDA.DE" = list("name" = "Aurubis AG", "src" = "yahoo")
   #, "BAYN.DE" = list("name" = "Bayer Aktiengesellschaft", "src" = "yahoo")
