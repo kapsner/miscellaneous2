@@ -8,10 +8,13 @@ get_stocks <- function(index, csv_path) {
   } else if (index == "snp500") {
     url <- "https://stockanalysis.com/list/sp-500-stocks"
   }
-   url <- url |>
+  url <- url |>
     URLencode()
 
-  webpage <- httr::GET(url) |>
+  # https://stackoverflow.com/a/78338993
+  UA <- httr::user_agent("Mozilla/5.0 Firefox")
+
+  webpage <- httr::GET(url, UA) |>
     rvest::read_html() |>
     rvest::html_table()
 
@@ -31,9 +34,9 @@ get_stocks <- function(index, csv_path) {
   )
 }
 
-get_dax_stocks <- function() {
+get_dax_stocks <- function(csv_path) {
 
-  url <- "https://finance.yahoo.com/quote/^GDAXI/components/?guccounter=1" |>
+  url <- "https://finance.yahoo.com/quote/^GDAXI/components/?guccounter=2" |>
     URLencode()
 
   # https://stackoverflow.com/a/78338993
@@ -48,6 +51,6 @@ get_dax_stocks <- function() {
 
   data.table::fwrite(
     x = webpage,
-    file = here::here("ric_dax.csv")
+    file = file.path(csv_path, "ric_dax.csv")
   )
 }
