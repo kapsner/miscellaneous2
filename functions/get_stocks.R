@@ -36,7 +36,9 @@ get_stocks <- function(index, csv_path) {
 
 get_dax_stocks <- function(csv_path) {
 
-  url <- "https://finance.yahoo.com/quote/^GDAXI/components/?guccounter=2" |>
+  #url <- "https://finance.yahoo.com/quote/^GDAXI/components/?guccounter=2" |>
+  # url <- "https://de.finance.yahoo.com/quote/^GDAXI/components/" |>
+  url <- "https://de.finance.yahoo.com/quote/%5EGDAXI/components/" |>
     URLencode()
 
   # https://stackoverflow.com/a/78338993
