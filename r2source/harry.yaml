@@ -1,0 +1,17 @@
+VolkswagenVZ:
+  - date: 20251209
+  - stype: "buy"
+  - signal: 114
+  - sgoal: 225
+
+Ferrari:
+  - date: 20251209
+  - stype: "bottom"
+  - signal: 331
+
+NovoNordisk:
+  - date: 20251216
+  - stype: "buy"
+  - signal: 44.5
+  - sgoal: 70
+
