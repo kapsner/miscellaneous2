@@ -66,7 +66,7 @@ list2 <- list(
   , "MDO.DE" = list("name" = "McDonald's Corporation", "src" = "yahoo")
   #, "MPCK.DE" = list("name" = "MPC Münchmeyer Petersen Capital AG", "src" = "yahoo")
   #, "NVD.DE" = list("name" = "NVIDIA Corporation", "src" = "yahoo")
-  , "PYPL" = list("name" = "PayPal Holdings, Inc.", "src" = "yahoo")
+  , "2PP.DE" = list("name" = "PayPal Holdings, Inc.", "src" = "yahoo")
   , "SHL.DE" = list("name" = "Siemens Healthineers AG", "src" = "yahoo")
   , "SZU.DE" = list("name" = "Südzucker AG", "src" = "yahoo")
   , "PAH3.DE" = list("name" = "Porsche Automobil Holding SE", "src" = "yahoo")
