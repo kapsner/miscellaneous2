@@ -15,3 +15,8 @@ NovoNordisk:
   - signal: 44.5
   - sgoal: 70
 
+DAX:
+  - date: 20260112
+  - stype: "buy"
+  - signal: 24700
+  - sgoal: 27310
