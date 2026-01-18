@@ -41,7 +41,7 @@ list2 <- list(
   , "0MLC.IL" = list("name" = "iShares STOXX Europe Select Dividend 30 UCITS ETF (DE)", "src" = "yahoo")
   , "ISPA.DE" = list("name" = "iShares STOXX Global Select Dividend 100 UCITS ETF (DE)", "src" = "yahoo")
   , "INRG.MI" = list("name" = "iShares Global Clean Energy UCITS ETF USD (Dist)", "src" = "yahoo")
-  , "H41J.DU" = list("name" = "HSBC MULTI FAC.WORLDW.EQUITY (Dist)", "src" = "yahoo")
+  , "H41J.SG" = list("name" = "HSBC MULTI FAC.WORLDW.EQUITY (Dist)", "src" = "yahoo")
   , "IMR.F" = list("name" = "AC Immune", "src" = "yahoo")
   #, "BST.DE" = list("name" = "Bastei Lübbe AG", "src" = "yahoo")
   , "1F6.F" = list("name" = "Fermentalg SA", "src" = "yahoo")
