@@ -1,8 +1,8 @@
 VolkswagenVZ:
-  - date: 20251209
+  - date: 20260119
   - stype: "buy"
-  - signal: 114
-  - sgoal: 225
+  - signal: 115.8
+  - sgoal: 240
 
 Ferrari:
   - date: 20251209
