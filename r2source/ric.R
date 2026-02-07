@@ -59,7 +59,7 @@ list2 <- list(
   , "CPA.DE" = list("name" = "Colgate-Palmolive Company", "src" = "yahoo")
   #, "D6H.DE" = list("name" = "DATAGROUP SE", "src" = "yahoo")
   , "DRW3.DE" = list("name" = "Drägerwerk AG & Co. KGaA", "src" = "yahoo")
-  #, "HXCK.DE" = list("name" = "Ernst Russ AG", "src" = "yahoo")
+  #, "HXCK.SG" = list("name" = "Ernst Russ AG", "src" = "yahoo")
   #, "ELG.DE" = list("name" = "Elmos Semiconductor SE", "src" = "yahoo")
   #, "HLAG.DE" = list("name" = "Hapag-Lloyd Aktiengesellschaft", "src" = "yahoo")
   , "KTA.DE" = list("name" = "Knaus Tabbert AG", "src" = "yahoo")
