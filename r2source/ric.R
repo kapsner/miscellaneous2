@@ -48,6 +48,7 @@ list2 <- list(
   , "NJB.F" = list("name" = "NIBE Industrier AB (publ)", "src" = "yahoo")
   , "4R0.F" = list("name" = "Oxford Nanopore Technologies plc", "src" = "yahoo")
   , "RQ0.F" = list("name" = "D-Wave Quantum Inc.", "src" = "yahoo")
+  , "0IK.SG" = list("name" = "Raspberry Pi Ltd.", "src" = "yahoo")
   #, "AMD.F" = list("name" = "Advanced Micro Devices, Inc.", "src" = "yahoo")
   , "ACT.DE" = list("name" = "AlzChem Group AG", "src" = "yahoo")
   , "ADS.DE" = list("name" = "Adidas AG", "src" = "yahoo")
