@@ -3,7 +3,6 @@ list1 <- list(
   #, "22UA.DE" = list("name" = "BioNTech SE", "src" = "yahoo")
   "AFX.DE" = list("name" = "Carl Zeiss Meditec AG", "src" = "yahoo")
   , "CAT1.DE" = list("name" = "Caterpillar Inc.", "src" = "yahoo")
-  , "CPA.DE" = list("name" = "Colgate-Palmolive Company", "src" = "yahoo")
   , "HEI.DE" = list("name" = "HeidelbergCement AG", "src" = "yahoo")
   #, "IFX.DE" = list("name" = "Infineon Technologies AG", "src" = "yahoo")
   #, "KHNZ.DE" = list("name" = "The Kraft Heinz Company", "src" = "yahoo")
