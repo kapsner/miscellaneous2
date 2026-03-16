@@ -43,6 +43,7 @@ list2 <- list(
   #, "BST.DE" = list("name" = "Bastei Lübbe AG", "src" = "yahoo")
   , "1F6.F" = list("name" = "Fermentalg SA", "src" = "yahoo")
   , "NCH2.DE" = list("name" = "thyssenkrupp nucera AG & Co. KGaA", "src" = "yahoo")
+  , "NOA3.DE" = list("name" = "Nokia Oyj", "src" = "yahoo")
   , "NJB.F" = list("name" = "NIBE Industrier AB (publ)", "src" = "yahoo")
   , "4R0.F" = list("name" = "Oxford Nanopore Technologies plc", "src" = "yahoo")
   , "RQ0.F" = list("name" = "D-Wave Quantum Inc.", "src" = "yahoo")
